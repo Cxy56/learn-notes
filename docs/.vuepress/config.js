@@ -1,7 +1,7 @@
 module.exports = {
   title: "前端学习笔记",
   description: "Just playing around",
-  // base: "/bar/", // 网站部署到 https://foo.github.io/bar/下访问
+  base: "/learn-notes/", // 网站部署到 https://foo.github.io/bar/下访问
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
