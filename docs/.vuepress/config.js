@@ -10,6 +10,7 @@ module.exports = {
       { text: "node", link: "/node/" },
       { text: "qiankun", link: "/qiankun/" },
     ],
+    sidebar: {},
   },
   configureWebpack: {
     resolve: {
